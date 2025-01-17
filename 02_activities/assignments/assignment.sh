@@ -51,7 +51,7 @@ ls data/processed/user_logs >> ./data/inventory.txt
 
 ls data/processed/event_logs >> ./data/inventory.txt
 
-ls data/processed/server_logs >> inventory.txt
+ls data/processed/server_logs >> ./data/inventory.txt
 
 cat inventory.txt
 
