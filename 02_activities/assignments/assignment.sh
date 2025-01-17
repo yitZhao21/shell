@@ -58,3 +58,5 @@ cat inventory.txt
 ###########################################
 
 echo "Project setup is complete!"
+
+
